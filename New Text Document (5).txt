@@ -1,0 +1,104 @@
+Live Chat (Case ID - 9325684721)End Chat
+You are now connected to Shafiq from AWS. Please type your question below.
+Regarding case 9325684721
+5:39:06 PM
+Shafiq:
+Hello, my name is Shafiq. I'm here to help you today.
+5:39:13 PM
+hi shafiq
+5:39:22 PM
+Shafiq:
+May I have your name please?
+5:39:28 PM
+charan
+5:39:36 PM
+Shafiq:
+Hi Charan. I see you are contacting about charges on your account
+5:39:56 PM
+yes
+5:40:17 PM
+Shafiq:
+please allow me a moment to review
+5:40:32 PM
+sure
+5:40:43 PM
+Shafiq:
+Thanks for waiting. I'm reviewing your account and see that the charges relate to a t2.medium instance that was running in the Ohio region.
+5:41:33 PM
+Shafiq:
+I see the instance is currently in a stopped state
+5:41:44 PM
+how to delete sir
+5:42:02 PM
+Shafiq:
+I also see there are multiple EBS volumes, which will exceed the 30 GB free tier limits
+5:42:03 PM
+i dont know how to delete sir
+5:42:24 PM
+Shafiq:
+Please click this link https://us-east-2.console.aws.amazon.co...(See full link) :
+5:42:45 PM
+Shafiq:
+Select each instance and click 'Actions" and Terminate" along with the volumes
+5:42:58 PM
+Shafiq:
+Please also do not create a snapshot
+5:43:05 PM
+ok i'm following this and delete
+5:43:27 PM
+Shafiq:
+Okay sure. Please confirm once deleted and I'll check this
+5:43:40 PM
+i have terminated the instances
+5:46:14 PM
+Shafiq:
+I'll refresh and confirm
+5:46:40 PM
+Shafiq:
+I see there are still 2 EBS volumes. Please delete this here: https://us-east-2.console.aws.amazon.co...(See full link) :
+5:47:04 PM
+deleted sir
+5:47:56 PM
+Shafiq:
+I see it is now deleted. Before I can reach out to the service team to review the charges that incurred, please confirm that you are aware of the free tier services and it's limited
+5:48:42 PM
+Shafiq:
+Possible billing adjustments are reviewed as one time exceptions only. You will be liable for any future charges that incur
+5:49:06 PM
+i'm not aware of these things sir
+5:51:39 PM
+Shafiq:
+Are you not aware of the free tier limitations?
+5:52:19 PM
+Shafiq:
+please note that AWS provides some services to test the resources however, this has limitations. Any resources being used outside of these limitations will be charged at normal on demand rates.
+5:52:51 PM
+Shafiq:
+For details on our free tier services and its limitations, please see the links below:
+5:52:51 PM
+Shafiq:
+https://aws.amazon.com/free
+5:52:51 PM
+Shafiq:
+https://aws.amazon.com/free/free-tier-f...(See full link)
+5:52:51 PM
+i have seen on the aws site but when i was creating testing instances i forgot to select a free tier one
+5:53:23 PM
+Shafiq:
+We would suggest reviewing the free tier pages and resources that are launched to ensure this is under free tier.
+5:53:58 PM
+Shafiq:
+As mentioned, possible adjustment can only be reviewed once.
+5:54:09 PM
+sir i appreciate your help and support
+5:55:02 PM
+Shafiq:
+Please confirm that you are aware of the free tier limitations now and you will be staying within the limits going forward.
+5:55:02 PM
+i totally understand sir
+5:55:26 PM
+Shafiq:
+Okay sure. I will reach out to the team now. I'll contact you on the case within the next 30 minutes
+5:55:53 PM
+Send
+Shafiq from AWS is Online
