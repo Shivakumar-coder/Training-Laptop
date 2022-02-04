@@ -1,0 +1,9 @@
+7 Pages
+             Current Pages         Destination Page
+-----------------------------------------------------------
+1st page --> Welcome Page      --> Login and SignUp Module
+2nd page --> Login page        --> Search train Page(src_des)
+3rd page --> SignUp page       --> LogIn page
+4th page --> Search train page --> Train List Page
+5th page --> Train list page   --> Booking page
+6th page --> Booking page      --> Booking Status page
